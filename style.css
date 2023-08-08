@@ -7,14 +7,14 @@
 }
 
 body {
-  background: #7bed9f;
+  background: #21ac70;
   font-family: 'Poppins', sans-serif;
 }
 
 .big-heading {
   color: #fff;
   text-align: center;
-  font-size: 26pt;
+  font-size: 30pt;
   padding: 20px;
   text-transform: capitalize;
 }
@@ -26,7 +26,7 @@ body {
   display: block;
   float: left;
   position: relative;
-  left: 1%;
+  left: 0.8%;
   margin: 20px;
   border-radius: 8px;
   overflow: hidden;
@@ -50,7 +50,7 @@ body {
   width: 100%;
   padding: 20px;
   text-align: left;
-  font-size: 15pt;
+  font-size: 20pt;
   color: #272625;
   margin-bottom: 40px;
   text-transform: capitalize;
@@ -73,7 +73,7 @@ body {
   right: -30px;
   top: 5px;
   font-weight: lighter;
-  font-size: 9pt;
+  font-size: 15pt;
 }
 .table .block .options {
   display: block;
@@ -81,7 +81,7 @@ body {
   margin: 10px auto;
 }
 .table .block .options li {
-  font-size: 13px;
+  font-size: 18px;
   color: #676462;
   text-transform: capitalize;
 }
@@ -101,7 +101,7 @@ body {
 .table .btn p {
   font-weight: bolder;
   color: #fff;
-  font-size: 10pt;
+  font-size: 15pt;
   text-align: center;
   line-height: 50px;
   font-family: 'Poppins', sans-serif;
@@ -112,7 +112,7 @@ body {
   transition: all 600ms cubic-bezier(1, 0, 0, 1);
 }
 .table .btn span {
-  font-size: 20px;
+  font-size: 25px;
   -webkit-transform: translate(-50%);
   transform: translate(-50%);
   position: relative;
@@ -141,7 +141,7 @@ p {
   text-align: left;
   color: #272625;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 20px;
   text-transform: capitalize;
 }
 
